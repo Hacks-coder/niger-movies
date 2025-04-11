@@ -18,6 +18,7 @@
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
+		"@iconify-json/lucide": "^1.2.28",
 		"@sveltejs/adapter-vercel": "^5.6.3",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
@@ -48,6 +49,8 @@
 		]
 	},
 	"dependencies": {
+		"@fontsource-variable/inter": "^5.2.5",
+		"@fontsource-variable/lexend": "^5.2.6",
 		"svelte-carousel": "^1.0.25",
 		"unplugin-icons": "^22.1.0"
 	}

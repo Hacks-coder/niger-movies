@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+	import Large from "../components/Main/CarouselMovieCards/Large.svelte";
+	import Hero from "../components/Main/Hero.svelte";
+	import Episoldes from "../components/Main/Movies/Episoldes.svelte";
+
+</script>
+<Hero />
+<Large />
+<Episoldes />
